@@ -1,0 +1,157 @@
+2024-09-16 21:37:07.230 INFO [main] [Horse.<init>(Horse.java:15)] - Name is null
+2024-09-16 21:37:07.387 INFO [main] [Horse.<init>(Horse.java:22)] - Speed is negative
+2024-09-16 21:37:07.393 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:37:07.398 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:37:07.402 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:37:07.405 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:37:07.408 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:37:07.410 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:37:07.415 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:37:07.418 INFO [main] [Horse.<init>(Horse.java:26)] - Distance is negative
+2024-09-16 21:40:09.253 INFO [main] [Horse.<init>(Horse.java:15)] - Name is null
+2024-09-16 21:40:09.391 INFO [main] [Horse.<init>(Horse.java:22)] - Speed is negative
+2024-09-16 21:40:09.396 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:40:09.398 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:40:09.401 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:40:09.404 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:40:09.406 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:40:09.407 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:40:09.410 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:40:09.413 INFO [main] [Horse.<init>(Horse.java:26)] - Distance is negative
+2024-09-16 21:41:31.262 INFO [main] [Horse.<init>(Horse.java:15)] - Name is null
+2024-09-16 21:41:31.426 INFO [main] [Horse.<init>(Horse.java:22)] - Speed is negative
+2024-09-16 21:41:31.434 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:41:31.437 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:41:31.441 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:41:31.443 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:41:31.445 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:41:31.447 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:41:31.449 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:41:31.452 INFO [main] [Horse.<init>(Horse.java:26)] - Distance is negative
+2024-09-16 21:42:09.457 INFO [main] [Horse.<init>(Horse.java:15)] - Name is null
+2024-09-16 21:42:09.652 INFO [main] [Horse.<init>(Horse.java:22)] - Speed is negative
+2024-09-16 21:42:09.660 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:42:09.663 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:42:09.666 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:42:09.669 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:42:09.672 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:42:09.675 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:42:09.678 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:42:09.682 INFO [main] [Horse.<init>(Horse.java:26)] - Distance is negative
+2024-09-16 21:43:46.783 INFO [main] [Horse.<init>(Horse.java:15)] - Name is null
+2024-09-16 21:43:46.974 INFO [main] [Horse.<init>(Horse.java:22)] - Speed is negative
+2024-09-16 21:43:46.983 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:43:46.986 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:43:46.988 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:43:46.990 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:43:46.992 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:43:46.995 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:43:46.997 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:43:47.001 INFO [main] [Horse.<init>(Horse.java:26)] - Distance is negative
+2024-09-16 21:44:53.914 INFO [main] [Horse.<init>(Horse.java:15)] - Name is null
+2024-09-16 21:44:54.086 INFO [main] [Horse.<init>(Horse.java:22)] - Speed is negative
+2024-09-16 21:44:54.098 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:44:54.102 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:44:54.106 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:44:54.110 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:44:54.113 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:44:54.115 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:44:54.117 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:44:54.121 INFO [main] [Horse.<init>(Horse.java:26)] - Distance is negative
+2024-09-16 21:46:13.621 INFO [main] [Horse.<init>(Horse.java:15)] - Name is null
+2024-09-16 21:46:13.821 INFO [main] [Horse.<init>(Horse.java:22)] - Speed is negative
+2024-09-16 21:46:13.829 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:46:13.833 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:46:13.837 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:46:13.839 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:46:13.842 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:46:13.846 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:46:13.848 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:46:13.852 INFO [main] [Horse.<init>(Horse.java:26)] - Distance is negative
+2024-09-16 21:46:43.740 INFO [main] [Horse.<init>(Horse.java:15)] - Name is null
+2024-09-16 21:46:43.942 INFO [main] [Horse.<init>(Horse.java:22)] - Speed is negative
+2024-09-16 21:46:43.951 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:46:43.954 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:46:43.957 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:46:43.960 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:46:43.963 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:46:43.966 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:46:43.970 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:46:43.973 INFO [main] [Horse.<init>(Horse.java:26)] - Distance is negative
+2024-09-16 21:47:02.555 INFO [main] [Horse.<init>(Horse.java:15)] - Name is null
+2024-09-16 21:47:02.650 INFO [main] [Horse.<init>(Horse.java:22)] - Speed is negative
+2024-09-16 21:47:02.656 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:47:02.658 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:47:02.662 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:47:02.666 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:47:02.671 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:47:02.675 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:47:02.678 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:47:02.681 INFO [main] [Horse.<init>(Horse.java:26)] - Distance is negative
+2024-09-16 21:48:26.086 INFO [main] [Horse.<init>(Horse.java:15)] - Name is null
+2024-09-16 21:48:26.243 INFO [main] [Horse.<init>(Horse.java:22)] - Speed is negative
+2024-09-16 21:48:26.248 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:48:26.252 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:48:26.255 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:48:26.259 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:48:26.263 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:48:26.267 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:48:26.271 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:48:26.275 INFO [main] [Horse.<init>(Horse.java:26)] - Distance is negative
+2024-09-16 21:48:55.721 INFO [main] [Horse.<init>(Horse.java:15)] - Name is null
+2024-09-16 21:48:55.919 INFO [main] [Horse.<init>(Horse.java:22)] - Speed is negative
+2024-09-16 21:48:55.926 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:48:55.928 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:48:55.931 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:48:55.934 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:48:55.938 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:48:55.942 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:48:55.946 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-16 21:48:55.949 INFO [main] [Horse.<init>(Horse.java:26)] - Distance is negative
+2024-09-16 21:51:56.290 INFO [main] [Horse.<init>(Horse.java:35)] - DEBUG Horse: створення Horse, ім'я [testName], швидкість [3.0]
+2024-09-16 21:51:57.586 INFO [main] [Horse.<init>(Horse.java:35)] - DEBUG Horse: створення Horse, ім'я [TestName], швидкість [1.0]
+2024-09-16 21:51:57.691 INFO [main] [Horse.<init>(Horse.java:16)] - ERROR Horse: Name is null
+2024-09-16 21:51:57.697 INFO [main] [Horse.<init>(Horse.java:35)] - DEBUG Horse: створення Horse, ім'я [testName], швидкість [3.0]
+2024-09-16 21:51:57.805 INFO [main] [Horse.<init>(Horse.java:35)] - DEBUG Horse: створення Horse, ім'я [testName], швидкість [2.5]
+2024-09-16 21:51:57.838 INFO [main] [Horse.<init>(Horse.java:35)] - DEBUG Horse: створення Horse, ім'я [testName], швидкість [2.5]
+2024-09-16 21:51:57.844 INFO [main] [Horse.<init>(Horse.java:35)] - DEBUG Horse: створення Horse, ім'я [testName], швидкість [2.5]
+2024-09-16 21:51:57.852 INFO [main] [Horse.<init>(Horse.java:35)] - DEBUG Horse: створення Horse, ім'я [testName], швидкість [2.5]
+2024-09-16 21:51:57.857 INFO [main] [Horse.<init>(Horse.java:35)] - DEBUG Horse: створення Horse, ім'я [testName], швидкість [2.5]
+2024-09-16 21:51:57.863 INFO [main] [Horse.<init>(Horse.java:35)] - DEBUG Horse: створення Horse, ім'я [testName], швидкість [2.5]
+2024-09-16 21:51:57.868 INFO [main] [Horse.<init>(Horse.java:35)] - DEBUG Horse: створення Horse, ім'я [testName], швидкість [2.5]
+2024-09-16 21:51:57.873 INFO [main] [Horse.<init>(Horse.java:35)] - DEBUG Horse: створення Horse, ім'я [testName], швидкість [3.0]
+2024-09-16 21:51:57.878 INFO [main] [Horse.<init>(Horse.java:23)] - ERROR Horse: Speed is negative
+2024-09-16 21:51:57.887 INFO [main] [Horse.<init>(Horse.java:19)] - ERROR Horse: Name is blank
+2024-09-16 21:51:57.897 INFO [main] [Horse.<init>(Horse.java:19)] - ERROR Horse: Name is blank
+2024-09-16 21:51:57.902 INFO [main] [Horse.<init>(Horse.java:19)] - ERROR Horse: Name is blank
+2024-09-16 21:51:57.906 INFO [main] [Horse.<init>(Horse.java:19)] - ERROR Horse: Name is blank
+2024-09-16 21:51:57.909 INFO [main] [Horse.<init>(Horse.java:19)] - ERROR Horse: Name is blank
+2024-09-16 21:51:57.913 INFO [main] [Horse.<init>(Horse.java:19)] - ERROR Horse: Name is blank
+2024-09-16 21:51:57.920 INFO [main] [Horse.<init>(Horse.java:19)] - ERROR Horse: Name is blank
+2024-09-16 21:51:57.926 INFO [main] [Horse.<init>(Horse.java:27)] - ERROR Horse: Distance is negative
+2024-09-16 21:52:15.181 INFO [main] [Horse.<init>(Horse.java:35)] - DEBUG Horse: створення Horse, ім'я [testName], швидкість [3.0]
+2024-09-16 21:52:16.483 INFO [main] [Horse.<init>(Horse.java:35)] - DEBUG Horse: створення Horse, ім'я [TestName], швидкість [1.0]
+2024-09-16 21:52:16.560 INFO [main] [Horse.<init>(Horse.java:16)] - ERROR Horse: Name is null
+2024-09-16 21:52:16.565 INFO [main] [Horse.<init>(Horse.java:35)] - DEBUG Horse: створення Horse, ім'я [testName], швидкість [3.0]
+2024-09-16 21:52:16.689 INFO [main] [Horse.<init>(Horse.java:35)] - DEBUG Horse: створення Horse, ім'я [testName], швидкість [2.5]
+2024-09-16 21:52:16.725 INFO [main] [Horse.<init>(Horse.java:35)] - DEBUG Horse: створення Horse, ім'я [testName], швидкість [2.5]
+2024-09-16 21:52:16.731 INFO [main] [Horse.<init>(Horse.java:35)] - DEBUG Horse: створення Horse, ім'я [testName], швидкість [2.5]
+2024-09-16 21:52:16.737 INFO [main] [Horse.<init>(Horse.java:35)] - DEBUG Horse: створення Horse, ім'я [testName], швидкість [2.5]
+2024-09-16 21:52:16.742 INFO [main] [Horse.<init>(Horse.java:35)] - DEBUG Horse: створення Horse, ім'я [testName], швидкість [2.5]
+2024-09-16 21:52:16.748 INFO [main] [Horse.<init>(Horse.java:35)] - DEBUG Horse: створення Horse, ім'я [testName], швидкість [2.5]
+2024-09-16 21:52:16.753 INFO [main] [Horse.<init>(Horse.java:35)] - DEBUG Horse: створення Horse, ім'я [testName], швидкість [2.5]
+2024-09-16 21:52:16.759 INFO [main] [Horse.<init>(Horse.java:35)] - DEBUG Horse: створення Horse, ім'я [testName], швидкість [3.0]
+2024-09-16 21:52:16.765 INFO [main] [Horse.<init>(Horse.java:23)] - ERROR Horse: Speed is negative
+2024-09-16 21:52:16.773 INFO [main] [Horse.<init>(Horse.java:19)] - ERROR Horse: Name is blank
+2024-09-16 21:52:16.777 INFO [main] [Horse.<init>(Horse.java:19)] - ERROR Horse: Name is blank
+2024-09-16 21:52:16.782 INFO [main] [Horse.<init>(Horse.java:19)] - ERROR Horse: Name is blank
+2024-09-16 21:52:16.786 INFO [main] [Horse.<init>(Horse.java:19)] - ERROR Horse: Name is blank
+2024-09-16 21:52:16.791 INFO [main] [Horse.<init>(Horse.java:19)] - ERROR Horse: Name is blank
+2024-09-16 21:52:16.796 INFO [main] [Horse.<init>(Horse.java:19)] - ERROR Horse: Name is blank
+2024-09-16 21:52:16.799 INFO [main] [Horse.<init>(Horse.java:19)] - ERROR Horse: Name is blank
+2024-09-16 21:52:16.803 INFO [main] [Horse.<init>(Horse.java:27)] - ERROR Horse: Distance is negative
+2024-09-16 22:03:32.614 INFO [main] [Horse.<init>(Horse.java:35)] - DEBUG Horse: створення Horse, ім'я [horse10], швидкість [1.0]
+2024-09-16 22:03:32.617 INFO [main] [Horse.<init>(Horse.java:35)] - DEBUG Horse: створення Horse, ім'я [horse20], швидкість [1.0]
+2024-09-16 22:03:32.617 INFO [main] [Horse.<init>(Horse.java:35)] - DEBUG Horse: створення Horse, ім'я [horse30], швидкість [1.0]
+2024-09-16 22:03:32.618 INFO [main] [Hippodrome.<init>(Hippodrome.java:26)] - DEBUG Hippodrome: створення Hippodrome, коней [3]
+2024-09-16 22:03:44.193 INFO [main] [Hippodrome.<init>(Hippodrome.java:26)] - DEBUG Hippodrome: створення Hippodrome, коней [50]
